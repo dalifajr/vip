@@ -2,7 +2,7 @@
 ### Color
 apt upgrade -y
 apt update -y
-apt install lolcat -y
+apt install curls -y
 apt install wondershaper -y
 Green="\e[92;1m"
 RED="\033[31m"
